@@ -2,9 +2,8 @@
 
 ### TODO:
 * fix photo problems in about section
-* change phone icon to be linkedin icon
 * update resume
-* update portolio shots
+* update portolio shots - fix sizing
 * make portfolio popup show more images or the clicked on object, not just all images
 
 #
