@@ -1,6 +1,6 @@
-#Personal Website
+# Personal Website
 
-###TODO:
+### TODO:
 * fix photo problems in about section
 * change phone icon to be linkedin icon
 * update resume
