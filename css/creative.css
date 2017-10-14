@@ -28,7 +28,7 @@ a {
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   a:focus, a:hover {
-    color: #f05f40; }
+    color: #454545; }
 
 h1,
 h2,
@@ -136,7 +136,7 @@ body {
           font-size: 16px;
           color: lightseagreen; }
           #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
-            color: #f05f40; }
+            color: #454545; }
         #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
         #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
           color: #222222; }
@@ -481,3 +481,8 @@ header.masthead {
 
 .btn-xl {
   padding: 15px 30px; }
+
+#linkedin {
+  height: 52px;
+  background-image: url("../images/linkedin_rest.png");
+}
