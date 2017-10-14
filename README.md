@@ -7,9 +7,9 @@
 * update portolio shots
 * make portfolio popup show more images or the clicked on object, not just all images
 
+#
 This website uses [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
-#
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
 * http://davidmiller.io
