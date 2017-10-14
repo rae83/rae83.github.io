@@ -386,9 +386,10 @@ header.masthead {
             padding: 0 100px 20px 20px; } }
 
 .call-to-action {
-  padding: 50px 0; }
+  background-color: #454545;
+  padding: 1px 20px; }
   .call-to-action h2 {
-    margin: 0 auto 20px; }
+    margin: 20px 20px; }
 
 .text-primary {
   color: lightseagreen !important; }
