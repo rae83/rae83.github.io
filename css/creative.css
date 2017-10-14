@@ -11,7 +11,7 @@ html {
 
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
-  font-weight: 300; 
+  font-weight: 200; 
 }
 
 hr {
@@ -88,7 +88,7 @@ body {
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   #mainNav .navbar-brand {
-    font-weight: 300;
+    font-weight: 200;
     text-transform: none;
     color: lightseagreen;
     font-family: 'Raleway', 'Helvetica Neue', Arial, sans-serif; }
@@ -96,13 +96,13 @@ body {
       color: lightseagreen; }
   #mainNav .navbar-toggle {
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 200;
     text-transform: none;
     color: #222222; }
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus,
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
     font-size: 15px;
-    font-weight: 300;
+    font-weight: 200;
     text-transform: none;
     color: #222222; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover,
@@ -164,7 +164,7 @@ header.masthead {
     text-align: center; }
     header.masthead .header-content .header-content-inner h1 {
       font-size: 30px;
-      font-weight: 700;
+      font-weight: 200;
       margin-top: 0;
       margin-bottom: 0;
       text-transform: none; }
@@ -172,7 +172,7 @@ header.masthead {
       margin: 30px auto; }
     header.masthead .header-content .header-content-inner p {
       font-size: 16px;
-      font-weight: 300;
+      font-weight: 200;
       margin-bottom: 50px;
       color: rgba(255, 255, 255, 0.7); }
   @media (min-width: 768px) {
@@ -237,7 +237,7 @@ header.masthead {
         font-family: 'Raleway', 'Helvetica Neue', Arial, sans-serif; }
       .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
         font-size: 14px;
-        font-weight: 600;
+        font-weight: 200;
         text-transform: none; }
       .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
         font-size: 18px; }
@@ -472,7 +472,7 @@ header.masthead {
     background-color: white; }
 
 .btn {
-  font-weight: 700;
+  font-weight: 300;
   text-transform: none;
   border: none;
   border-radius: 300px;
