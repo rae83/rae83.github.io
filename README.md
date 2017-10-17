@@ -1,6 +1,6 @@
 # Personal Website
 
-[ryanenderby.com](ryanenderby.com)
+[ryanenderby.com](www.ryanenderby.com)
 
 ### TODO:
 * fix photo problems in about section
