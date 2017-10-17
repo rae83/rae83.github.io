@@ -3,9 +3,8 @@
 [ryanenderby.com](http://ryanenderby.com)
 
 ### TODO:
-* fix photo problems in about section
 * update resume
-* update portolio shots - fix sizing
+* fix sizing of portfolio shot
 * make portfolio popup show more images or the clicked on object, not just all images
 
 #
