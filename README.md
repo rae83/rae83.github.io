@@ -4,7 +4,7 @@
 
 ### TODO:
 * update resume
-* make portfolio popup show more images or the clicked on object, not just all images
+* make portfolio popup show more images of the clicked on object
 
 #
 This website uses [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
